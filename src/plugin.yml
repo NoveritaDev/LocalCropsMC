@@ -1,0 +1,5 @@
+name: LocalCrops
+version: 1.0
+author: Noverita
+main: me.kingdoms.localcrops.Main
+api-version: 1.13
